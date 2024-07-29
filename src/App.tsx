@@ -13,7 +13,7 @@ function App() {
       {/* <Arreglos2/> */}
       {/* <Arreglo3/> */}
       {/* <Objeto4/> */}
-      <UseStateContador/>
+      {/* <UseStateContador/> */}
     </div>
   );
 }
